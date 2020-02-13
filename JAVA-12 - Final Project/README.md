@@ -5,17 +5,18 @@
 
  <br/>
  <br/>
- Its time to see how much you learn about Java and Object Oriented Programming.
+ It is time to check how much you have learnt about Java and Object Oriented Programming.
  
- ## Part 1: Understanding the StudentGen project
- 1. Download the source code and import the project into your favorite IDE IntelliJ Idea.
- 2. Understand the project stucture:
+ ## Part 1: Understanding the Student Gen project
+ 1. Download the source code and import the project into your favorite IDE (e.g. IntelliJ Idea).
+ 2. Understand the project stucture: {this instruction is unclear. what should participants do with the info below? read it?}
  * Packages
  * Classes
  * Functionality
- 3. Run and test the project to get a deeper undertanding of how it works (remember the persistence mindset!)
+ 3. Run and test the project to get a deeper understanding of how it works (remember the persistence mindset!) {can we give more clarity about what they should achieve here, e.g. you should be clear about how every step in the process works}
  
   ## Part 2: Implementing the Student and StudentService missing features
+  
   1. Open the *Student* class and implement the following methods:
   
    ```java
@@ -70,15 +71,15 @@
  
  2. Test the program to verify it works as expected:
   * Create a new student.
-  * Enrroll the student to few courses.
+  * Enrroll the student to a few courses.
   * Grade the student.
   * Show the students and courses summary and verify that data is correct.
   
 
   ## Part 4: Handling exceptions
-  1. Register a new user providing a wrong date format.
-  2. Modify the createStudentMenu so it handles correctly the exception when a wrong date format is inserted by the user.
-  3. Catch the exception and show a proper message to the user.
+  1. Register a new user providing an incorrect date format.
+  2. Modify the createStudentMenu so it handles correctly the exception when an incorrect date format is inserted by the user.
+  3. Catch the exception and show a proper message to the user. {what does proper mean here?}
   
   ## Challenge Yourself
   1. Implement an additional feature in the menu options that will display the average grade of all the students suscribed to a given course.
