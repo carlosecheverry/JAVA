@@ -4,6 +4,7 @@
 #### Part 1: Writing Unit Tests
 
 1.Open the Drive package and explore the classes and what they do.
+
 2. Open the *DriversManagerTest* class and implement unit test for the following scenarios:
 * Verify a Passenger is added correctly
 * Verify a Driver is added correctly
@@ -31,6 +32,6 @@
      ```
 
 #### Challenge Yourself
-1. As you can see this algorithm is not very fare. It does not consider distance so the drivers
+1. As you can see this algorithm is not very fair since it does not consider distance and drivers
 will always get paid the same fee. Modify the code so it considers distance too.
  
